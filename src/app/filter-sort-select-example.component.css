@@ -1,0 +1,17 @@
+.wrapper {
+  height: 300px;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.col-sm {
+  width: 70px;
+}
